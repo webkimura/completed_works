@@ -15,3 +15,7 @@ FB: https://www.facebook.com/profile.php?id=100027367756142
 IN: https://www.instagram.com/ea_grevtsov/
 
 Email: grevtsov85@mail.ru
+
+Skype: https://join.skype.com/invite/mGR1kqp8IFwS
+
+Tel: +79507255980

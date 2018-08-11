@@ -1,0 +1,37 @@
+
+
+
+@import "button.scss";
+@import "variables.scss";
+@import "reset.scss";
+
+
+.header {
+	margin-top: 0;
+	margin-left: 0;
+	position: fixed;
+	background-color: #fff;
+	padding: 15px 0;
+	z-index: 99999;
+	width: 100%;
+	&-contacts {
+		display: flex;
+		justify-content: flex-end;
+		align-items: center;
+		&__phone {
+		font-size: 22px;
+		margin-right: 13px;
+			&:first-child {
+				border-right: 1px solid #cfcfd0;
+				padding-right: 13px;
+			}
+	}
+	&__button {
+		font-size: 14px;
+		font-weight: 400;
+		color: #fff;
+		border: none;
+		}
+	}
+}
+

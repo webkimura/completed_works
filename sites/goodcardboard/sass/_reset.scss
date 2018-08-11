@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+}
+
+img {
+	max-width: 100%;
+}
+input {
+	&:focus {
+		outline: none;
+	}
+	&:hover {
+		outline: none;
+	}
+	outline: none;
+}
+
+button {
+	&:focus {
+		outline: none;
+	}
+	&:hover {
+		outline: none;
+	}
+	outline: none;
+}

@@ -25,6 +25,9 @@
     "lazyloadxt": "^1.0.5",
     "slick-carousel": "^1.8.1",
     "fotorama": "^4.6.4",
-    "fontawesome": "^5.1.1"
+    "fontawesome": "^5.1.1",
+    "normalize-css": "^8.0.0",
+    "jQuery.mmenu": "mmenu#^7.0.6",
+    "css-hamburgers": "^0.9.3"
   }
 }

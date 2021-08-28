@@ -17,8 +17,6 @@ https://webkimura.github.io/sites/portfolioblue/index.html
 
 https://webkimura.github.io/sites/tinyone/index.html
 
-HTML/CSS/SCSS/Bootstrap/JQuery/JavaScript/Gulp/Bower
-
 Мои контакты:
 
 Telegram: https://t.me/takeshikovach

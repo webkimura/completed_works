@@ -7,6 +7,8 @@
 
 Примеры работ:
 
+https://webkimura.github.io/sites/nerds/dist/index.html
+
 https://webkimura.github.io/sites/barbershop/index.html
 
 https://webkimura.github.io/sites/goodcardboard/index.html
@@ -16,6 +18,8 @@ https://webkimura.github.io/sites/iamfrontender/index.html
 https://webkimura.github.io/sites/portfolioblue/index.html
 
 https://webkimura.github.io/sites/tinyone/index.html
+
+Мой стек: html, scss, gulp, bootstrap, flexbox, css grid, github, bower, jquery, javascript.
 
 Мои контакты:
 

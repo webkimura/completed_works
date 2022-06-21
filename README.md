@@ -2,6 +2,8 @@
 
 Примеры работ:
 
+https://webkimura.github.io/completed_works/sites/nyamushka/index.html
+
 https://webkimura.github.io/completed_works/sites/nerds/dist/index.html
 
 https://webkimura.github.io/completed_works/sites/barbershop/index.html
